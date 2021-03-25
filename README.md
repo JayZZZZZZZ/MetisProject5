@@ -1,8 +1,10 @@
 # MetisProject5
 
-Final Project - AirBnb Recommendation System
+# Final Project:  AirBnb Recommendation System & Application
 
-Short Description: Create a Recommendation System and Application for All Airbnb Users
+Short Description: 
+
+Create a Recommendation System and Application for All Airbnb Users
                     - Help the Users to find listings they like quickly and precisely 
                     - Provide summerized reviews for each listing
 
