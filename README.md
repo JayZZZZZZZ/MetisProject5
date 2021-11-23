@@ -28,4 +28,4 @@ Part 3: Streamlit Application
 
 Part 4: Final Presentation
 
-    - Story Telling and Video Demo
+    - Story Telling and Video Demo of Product
